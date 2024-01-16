@@ -1,2 +1,2 @@
 # classwork
-Tuesday Class work 
+Tuesday Class work on github 
